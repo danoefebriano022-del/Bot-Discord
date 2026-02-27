@@ -37,4 +37,5 @@ async def emoji(ctx):
     await ctx.send(random.choice(emojis))
 
 
-bot.run("MTQzNjMzNDcwNzcwMzkzOTE0Mw.GvsV_c.4yFMYHImIzhLJH_6K5_oHp2c3GptVJYj1bjU1A")
+bot.run("discordtoken")
+
